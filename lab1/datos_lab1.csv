@@ -1,0 +1,4 @@
+﻿pH simulado,V teórico (V),Sin buffer — Nodo A (V),Con buffer TL084 — Nodo B (V),Con buffer LM324 — Nodo B (V)
+4,2.1824,0.98,2.08,1.99
+7,1.65,0.675,1.56,1.5
+10,1.1176,0.48,0.973,1.02
