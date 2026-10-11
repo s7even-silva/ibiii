@@ -1,0 +1,4 @@
+﻿pH,Voltaje teorico (V),Salida ESP32 medida (V),TP1 medido (V),TP1 - ESP32 (mV)
+2,1.9458,1.941,1.953,12
+7,1.65,1.643,1.656,13
+14,1.2359,1.229,1.241,12
